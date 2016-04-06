@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/LernAppServer",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "x8phGbywyTXsKL0qfIpwofaqlF/+a8ydsJagmm4wDUd5T1wYY5FXmir55DDF9SD0z4zoVac9zNRty7yEJ+DQUw=="
+    },
+    "local": {}
+  }
+}
