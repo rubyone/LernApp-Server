@@ -8,6 +8,7 @@
     "token": {
       "secret": "x8phGbywyTXsKL0qfIpwofaqlF/+a8ydsJagmm4wDUd5T1wYY5FXmir55DDF9SD0z4zoVac9zNRty7yEJ+DQUw=="
     },
-    "local": {}
+    "local": {},
+    "successRedirect": "/index.html"
   }
 }
